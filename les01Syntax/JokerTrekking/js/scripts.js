@@ -1,7 +1,8 @@
 const numPlayers = 10000;
 const minNumber = 1000;
 const maxNumber = 9999;
-const prizes = [2.5, 10, 100, 500];
+const twee5 = 2.5;
+const prizes = [twee5, 10, 100, 500];
 
 function generateRandomNumber(min, max) {
 	return Math.floor(Math.random() * (max - min + 1)) + min;
