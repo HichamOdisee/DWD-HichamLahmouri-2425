@@ -1,0 +1,36 @@
+html {
+    background-color: #d8cdf2;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .bodfrm {
+    display: flex;
+ }
+ 
+ form p {
+    display: flex;
+    margin-left: 30px;
+ }
+ 
+ #bod {
+    margin-left: 113px;
+ }
+ 
+ #bod-naam {
+    margin-left: 50px;
+ }
+ 
+ img {
+    margin-top: 15px;
+ }
+ 
+ button
+ {
+    font-size: 15px;
+    padding: 5px 15px;
+ }
+ 
+ #message
+ {
+    margin-left: 20px;
+ }
